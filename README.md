@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="200px"><br>
-  <b><code>@NotMobin</code></b>
+  <b><code>NotMobin</code></b>
 </h1>
 
 <p align="center">
