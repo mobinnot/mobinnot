@@ -39,18 +39,49 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Medium+Level+Hacker...;Reverse+First,+Ask+Later.;I+see+code+in+hex.&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000">
-</p>
+<div align="center" style="margin-top: 20px;">
+  <style>
+    .hermes-container {
+      color: #ff2a2a;
+      font-family: 'Fira Code', monospace;
+      font-size: 20px;
+      font-style: italic;
+      text-align: center;
+      line-height: 1.6;
+      text-shadow: 0 0 5px red, 0 0 10px darkred;
+      display: inline-block;
+      padding: 10px 20px;
+      border: 2px solid #ff2a2a;
+      border-radius: 10px;
+      background-color: rgba(30, 0, 0, 0.4);
+      backdrop-filter: blur(3px);
+    }
 
+    .hermes-container img {
+      width: 40px;
+      vertical-align: middle;
+      margin-right: 10px;
+      filter: drop-shadow(0 0 5px red);
+    }
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Medium+Level+Hacker...;Reverse+First,+Ask+Later.;I+see+code+in+hex.&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000">
-</p>
+    @media (max-width: 500px) {
+      .hermes-container {
+        font-size: 16px;
+      }
 
-<p align="center" style="color: red; font-style: italic; font-size: 18px; margin-top: 10px;">
-  <img src="https://static.wikia.nocookie.net/hellsing/images/5/56/Alucard_glove_symbol.png" width="30px" style="vertical-align: middle; margin-right: 8px;">
-  The Bird of Hermes is My Name<br>
-  Eating My Wings to Make Me Tame.
-</p>
+      .hermes-container img {
+        width: 30px;
+        margin-bottom: 5px;
+      }
+    }
+  </style>
+
+  <div class="hermes-container">
+    <img src="https://static.wikia.nocookie.net/hellsing/images/5/56/Alucard_glove_symbol.png" alt="Alucard Hand">
+    <div>
+      The Bird of Hermes is My Name<br>
+      Eating My Wings to Make Me Tame.
+    </div>
+  </div>
+</div>
 
