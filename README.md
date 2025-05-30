@@ -44,7 +44,13 @@
 </p>
 
 
-<p align="center" style="font-style: italic; font-size: 18px; margin-top: 10px;">
-  "The Bird of Hermes is My Name<br>
-  Eating My Wings to Make Me Tame."  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Medium+Level+Hacker...;Reverse+First,+Ask+Later.;I+see+code+in+hex.&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000">
 </p>
+
+<p align="center" style="color: red; font-style: italic; font-size: 18px; margin-top: 10px;">
+  <img src="https://static.wikia.nocookie.net/hellsing/images/5/56/Alucard_glove_symbol.png" width="30px" style="vertical-align: middle; margin-right: 8px;">
+  The Bird of Hermes is My Name<br>
+  Eating My Wings to Make Me Tame.
+</p>
+
