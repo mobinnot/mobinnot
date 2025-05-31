@@ -40,8 +40,11 @@
 ---
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com/?lines=Network+Security+Engineer;Advanced+IT+Specialist;C%2B%2B+Developer;Minecraft+%26+FiveM+Cheat+Maker;Linux+Server+Expert&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000](https://readme-typing-svg.demolab.com/?lines=The+Bird+of+Hermes+is+My+Name+%2C+Eating+My+Wings+to+Make+Me+Tame&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=FF0000
-)">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Network+Security+Engineer;Advanced+IT+Specialist;C%2B%2B+Developer;Minecraft+%26+FiveM+Cheat+Maker;Linux+Server+Expert&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=00FFAA" alt="Typing SVG 1"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=The+Bird+of+Hermes+is+My+Name,+Eating+My+Wings+to+Make+Me+Tame&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=FF0000" alt="Typing SVG 2"/>
 </p>
 
 
