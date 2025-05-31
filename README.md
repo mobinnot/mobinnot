@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Network+Security+Engineer;Advanced+IT+Specialist;C%2B%2B+Developer;Minecraft+%26+FiveM+Cheat+Maker;Linux+Server+Expert&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000">
+  <img src="https://i.pinimg.com/736x/25/b6/f4/25b6f45fb30a7b9e92225610dd9b5711.jpg">
 </p>
 
 
