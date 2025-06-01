@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/335847967938445323.png" alt="Discord Widget" style="max-width: 350px; border-radius: 10px;" />
-</p>
-
 <h1 align="center">
   <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="200px" alt="Profile Picture"><br>
   <b><code>NotMobin</code></b>
@@ -34,12 +30,20 @@
 
 ---
 
-### ⚡ Contact & More
-
-- 📫 **Email:** mobin.abasbo@gmail.com
-- 💬 **Discord:** mobinnot
-- 📡 **Telegram:** [@mobinnot](https://t.me/mobinnot)
-- 🕵️‍♂️ **Pronouns:** He/Him  
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <h3>⚡ Contact & More</h3>
+    <ul>
+      <li>📫 <b>Email:</b> mobin.abasbo@gmail.com</li>
+      <li>💬 <b>Discord:</b> mobinnot</li>
+      <li>📡 <b>Telegram:</b> <a href="https://t.me/mobinnot" target="_blank">@mobinnot</a></li>
+      <li>🕵️‍♂️ <b>Pronouns:</b> He/Him</li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 300px; text-align: right;">
+    <img src="https://discord.c99.nl/widget/theme-1/335847967938445323.png" alt="Discord Widget" style="max-width: 320px; border-radius: 10px;">
+  </div>
+</div>
 
 ---
 
