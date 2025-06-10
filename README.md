@@ -23,7 +23,7 @@
 
 | Topic             | Focus                                              |
 |-------------------|---------------------------------------------------|
-| 🎮 Game Security  | Anti-Cheat (FiveM, Minecraft)                      |
+| 🎮 Game Security  | Anti-Cheat ( Minecraft)                      |
 | 🔐 Hacking Tools  | Custom payloads, scanners, & bypasses              |
 | 🕸️ Networking     | Packet crafting, MITM tools, raw sockets           |
 | 🧬 Systems Dev     | C++, C, Assembly, Static/Dynamic analysis          |
@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Network+Security+Engineer;Advanced+IT+Specialist;C%2B%2B+Developer;Minecraft+%26+FiveM+Cheat+Maker;Linux+Server+Expert&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=00FFAA" alt="Typing SVG 1"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Network+Security+Engineer;Advanced+IT+Specialist;C%2B%2B+Developer;Minecraft+%26+;Linux+Server+Expert&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=00FFAA" alt="Typing SVG 1"/>
 </p>
 
 <p align="center">
