@@ -23,7 +23,7 @@
 
 | Topic             | Focus                                              |
 |-------------------|---------------------------------------------------|
-| 🎮 Game Security  | Anti-Cheat ( Minecraft)                      |
+| 🎮 Game Security  | Anti-Cheat                                         |
 | 🔐 Hacking Tools  | Custom payloads, scanners, & bypasses              |
 | 🕸️ Networking     | Packet crafting, MITM tools, raw sockets           |
 | 🧬 Systems Dev     | C++, C, Assembly, Static/Dynamic analysis          |
