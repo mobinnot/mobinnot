@@ -45,16 +45,14 @@
   <a href="https://t.me/mobinnot" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@mobinnot-2CA5E0?style=flat-square&logo=telegram&logoColor=white">
   </a>
-</p>
-
-<p align="center">
   <a href="https://discord.com/users/335847967938445323" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/335847967938445323?bg=1e1e1e&borderRadius=10px&idleMessage=Offline%20%F0%9F%91%8C&animated=true&hideDiscrim=true">
+    <img src="https://img.shields.io/badge/Discord-mobinnot-5865F2?style=flat-square&logo=discord&logoColor=white">
   </a>
 </p>
 
 ---
 
-<p align="center" style="font-style: italic; font-size: 16px; color: #999;">
-  “The Bird of Hermes is my name, eating my wings to make me tame.”
+<!-- Bird of Hermes quote with animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=The+Bird+of+Hermes+is+my+name...;Eating+my+wings+to+make+me+tame.&font=Fira+Code&center=true&width=700&height=50&duration=4000&pause=1000&color=FF3333" alt="Bird of Hermes Typing Animation"/>
 </p>
