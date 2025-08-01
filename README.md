@@ -50,10 +50,7 @@
     <td><img src="https://img.icons8.com/ios-filled/30/229ED9/telegram-app.png"/></td>
     <td><strong style="color:#229ED9;">Telegram</strong><br><a href="https://t.me/mobinnot" target="_blank">@mobinnot</a></td>
   </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/ios-filled/30/999999/spy.png"/></td>
-    <td><strong style="color:#666;">Pronouns</strong><br><code>He/Him</code></td>
-  </tr>
+
 </table>
 
 ---
