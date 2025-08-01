@@ -1,42 +1,56 @@
-# ![Profile Picture](https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg)  
-# `NotMobin`
+<h1 align="center">
+  <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="200px" alt="Profile Picture"><br>
+  <b><code>NotMobin</code></b>
+</h1>
 
-🧠 **System Programmer** • 🧩 **Reverse Engineer** • 🛡️ **Cyber Security Specialist**  
-🧱 **DevOps Engineer** • 🤖 **Discord Bot Developer** • 🎮 **Minecraft Plugin Developer & Server Architect**  
+<p align="center">
+  🧠 <b>System Programmer</b> • 🧩 <b>Reverse Engineer</b> • 🛡️ <b>Cyber Security Specialist</b><br>
+  <code>C++</code> • <code>x86 ASM</code> • <code>Kernel</code> • <code>Networking</code>
+</p>
 
----
+<hr>
 
 ### 👁️‍🗨️ About Me
 
-- 🔬 *Hacker-minded developer obsessed with reversing and memory games*  
-- 🌌 Building advanced Minecraft plugins (**AntiCheat**, **GUI CS zones**)  
-- ⚙️ Linux-first DevOps: `Docker`, CI/CD, Reverse Proxy, Firewalls  
-- 🤖 Expert in Discord Bot development with rich interactive commands & server automation  
-- 💣 Kernel lover: eBPF, rootkits, Windows internals  
-- 🧠 Certified: **CEH v11/v13** | Tools: `IDA`, `Ghidra`, `x64dbg`, `Burp`  
+- 🔬 **Medium-level hacker mind with a love for reversing protocols and digging into memory**
+- 🌱 Currently exploring **kernel-level exploit dev**, **eBPF**, and **malware analysis**
+- 🛡️ Certified: CEH v11 / v13
+- 🔧 Tools: IDA, Ghidra, Wireshark, x64dbg, Burp, Metasploit
 
 ---
 
-### 🚀 Projects & Skills
+### 📦 Projects & Interests
 
-| Area            | Tools / Focus                          |
-|-----------------|-------------------------------------|
-| 🛠️ Plugin Dev     | Java, PaperMC, Bukkit, Spigot        |
-| 🧱 Server Config  | Linux, tmux, iptables, systemd, fail2ban |
-| 🔬 Exploiting     | Syscalls, buffer overflows, kernel tricks |
-| 🤖 Discord Bots   | Node.js, Discord.js, Slash Commands, Webhooks, Automation |
-| 📦 DevOps        | GitHub Actions, Nginx, Docker, Ansible |
-
----
-
-### 📡 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-mobin.abasbo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mobin.abasbo@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-@mobinnot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mobinnot)  
-[![Discord](https://img.shields.io/badge/Discord-mobinnot-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/335847967938445323)
+| Topic             | Focus                                              |
+|-------------------|---------------------------------------------------|
+| 🎮 Game Security  | Anti-Cheat                                         |
+| 🔐 Hacking Tools  | Custom payloads, scanners, & bypasses              |
+| 🕸️ Networking     | Packet crafting, MITM tools, raw sockets           |
+| 🧬 Systems Dev     | C++, C, Assembly, Static/Dynamic analysis          |
 
 ---
 
-<p align="center" style="margin-top: 40px; margin-bottom: 60px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF3333&width=600&lines=The+Bird+of+Hermes+is+my+name...;Eating+my+wings+to+make+me+tame." alt="Bird of Hermes Typing Animation" />
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <h3>⚡ Contact & More</h3>
+    <ul>
+      <li>📫 <b>Email:</b> mobin.abasbo@gmail.com</li>
+      <li>💬 <b>Discord:</b> mobinnot</li>
+      <li>📡 <b>Telegram:</b> <a href="https://t.me/mobinnot" target="_blank">@mobinnot</a></li>
+      <li>🕵️‍♂️ <b>Pronouns:</b> He/Him</li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 300px; text-align: right;">
+    <img src="https://discord.c99.nl/widget/theme-1/335847967938445323.png" alt="Discord Widget" style="max-width: 320px; border-radius: 10px;">
+  </div>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Network+Security+Engineer;Advanced+IT+Specialist;C%2B%2B+Developer;Minecraft+%26+;Linux+Server+Expert&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=00FFAA" alt="Typing SVG 1"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=The+Bird+of+Hermes+is+My+Name;Eating+My+Wings+to+Make+Me+Tame&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=FF0000" alt="Typing SVG"/>
 </p>
