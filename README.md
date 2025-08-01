@@ -1,53 +1,106 @@
-<h1 align="center">NotMobin</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; letter-spacing: 1.5px;">
+  <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="180" style="border-radius: 50%; border: 5px solid #00ffaa; box-shadow: 0 0 25px #00ffaa;" alt="Profile Picture"><br>
+  <code style="font-size: 40px; font-weight: 900; color: #00ffaa; text-shadow: 0 0 10px #00ffaa;">NotMobin</code>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=435&lines=System+Programmer;Reverse+Engineer;Cyber+Security+Specialist;Minecraft+Plugin+Developer;Minecraft+Server+Configurator" alt="Typing SVG" />
+<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 1.2rem; color: #aaffee; max-width: 650px; margin: auto;">
+  🧠 <strong>System Programmer</strong> &nbsp;&nbsp;•&nbsp;&nbsp; 🧩 <strong>Reverse Engineer</strong> &nbsp;&nbsp;•&nbsp;&nbsp; 🛡️ <strong>Cyber Security Specialist</strong><br>
+  🧱 <strong>DevOps Engineer</strong> &nbsp;&nbsp;•&nbsp;&nbsp; 🎮 <strong>Minecraft Plugin Developer & Server Architect</strong><br>
+  <code style="background: #004d40; padding: 3px 8px; border-radius: 6px; font-weight: bold;">C++</code> &nbsp;
+  <code style="background: #004d40; padding: 3px 8px; border-radius: 6px; font-weight: bold;">x86 ASM</code> &nbsp;
+  <code style="background: #004d40; padding: 3px 8px; border-radius: 6px; font-weight: bold;">Kernel</code> &nbsp;
+  <code style="background: #004d40; padding: 3px 8px; border-radius: 6px; font-weight: bold;">Networking</code> &nbsp;
+  <code style="background: #004d40; padding: 3px 8px; border-radius: 6px; font-weight: bold;">PaperMC</code>
 </p>
 
----
+<hr style="border: none; border-top: 2px dashed #004d40; width: 60%; margin: 35px auto;">
 
-## 👁️‍🗨️ About Me
+<section style="max-width: 700px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #88ffcc;">
+  <h3 style="text-align: center; margin-bottom: 15px; font-size: 1.8rem; font-weight: 700;">👁️‍🗨️ About Me</h3>
+  <ul style="list-style: none; padding: 0; font-size: 1.15rem; line-height: 1.7;">
+    <li>🔬 <em>Hacker-minded developer obsessed with reversing and memory games</em></li>
+    <li>🌌 Building advanced Minecraft plugins (<strong>Jail</strong>, <strong>AntiCheat</strong>, <strong>GUI CS zones</strong>)</li>
+    <li>⚙️ Linux-first DevOps: <code>Docker</code>, CI/CD, Reverse Proxy, Firewalls</li>
+    <li>💣 Kernel lover: eBPF, rootkits, Windows internals</li>
+    <li>🧠 Certified: <strong>CEH v11/v13</strong> | Tools: <code>IDA</code>, <code>Ghidra</code>, <code>x64dbg</code>, <code>Burp</code></li>
+  </ul>
+</section>
 
-- 🔬 **Medium-level hacker mind with a love for reversing protocols and digging into memory**  
-- 🌱 Currently exploring **kernel-level exploit dev**, **eBPF**, and **malware analysis**  
-- 🛡️ Certified: CEH v11 / v13  
-- 🔧 Tools: IDA, Ghidra, Wireshark, x64dbg, Burp, Metasploit  
-- 🧠 Passion for building & breaking systems  
-- 🔥 Minecraft plugin dev & server configurator  
+<section style="max-width: 700px; margin: 50px auto 70px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #00ffcc;">
+  <h3 style="text-align: center; font-size: 1.8rem; font-weight: 700; margin-bottom: 20px;">🚀 Projects & Skills</h3>
+  <table style="width: 100%; border-collapse: collapse; color: #00ffaa; font-size: 1.1rem;">
+    <thead>
+      <tr style="border-bottom: 2px solid #00ffaa;">
+        <th style="padding: 10px 15px; text-align: left;">Area</th>
+        <th style="padding: 10px 15px; text-align: left;">Tools / Focus</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #00332f;">
+        <td style="padding: 10px 15px;">🛠️ Plugin Dev</td>
+        <td style="padding: 10px 15px;">Java, PaperMC, Bukkit, Spigot</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 15px;">🧱 Server Config</td>
+        <td style="padding: 10px 15px;">Linux, tmux, iptables, systemd, fail2ban</td>
+      </tr>
+      <tr style="background: #00332f;">
+        <td style="padding: 10px 15px;">🔬 Exploiting</td>
+        <td style="padding: 10px 15px;">Syscalls, buffer overflows, kernel tricks</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 15px;">🕹️ Minecraft Worlds</td>
+        <td style="padding: 10px 15px;">Auto-Jail, Mining CS Zones, GUI Panels</td>
+      </tr>
+      <tr style="background: #00332f;">
+        <td style="padding: 10px 15px;">📦 DevOps</td>
+        <td style="padding: 10px 15px;">GitHub Actions, Nginx, Docker, Ansible</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
 
----
+<section style="text-align: center; margin-bottom: 60px;">
+  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.7rem; font-weight: 700; color: #00ffaa; margin-bottom: 20px;">📡 Connect with Me</h3>
+  <p>
+    <a href="mailto:mobin.abasbo@gmail.com" style="margin: 0 8px; text-decoration: none;">
+      <img src="https://img.shields.io/badge/Email-mobin.abasbo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://t.me/mobinnot" target="_blank" style="margin: 0 8px; text-decoration: none;">
+      <img src="https://img.shields.io/badge/Telegram-@mobinnot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <a href="https://discord.com/users/335847967938445323" target="_blank" style="margin: 0 8px; text-decoration: none;">
+      <img src="https://img.shields.io/badge/Discord-mobinnot-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+    </a>
+  </p>
+</section>
 
-## 📦 Projects & Interests
-
-| Topic              | Focus                                   |
-|-------------------|------------------------------------------|
-| 🎮 Game Security   | Anti-Cheat Systems                       |
-| 🔐 Hacking Tools   | Custom payloads, scanners, & bypasses    |
-| 🕸️ Networking       | Packet crafting, MITM tools, raw sockets |
-| 🧬 Systems Dev     | C++, C, Assembly, Static/Dynamic analysis |
-| 🧱 Minecraft Dev   | Plugin development, server optimization  |
-
----
-
-## ⚡ Contact & More
-
-- 📫 **Email:** mobin.abasbo@gmail.com  
-- 💬 **Discord:** `mobinnot`  
-- 📡 **Telegram:** [@mobinnot](https://t.me/mobinnot)  
-- 🕵️‍♂️ **Pronouns:** He/Him  
-
----
-
-## 📇 Discord Card
-
-<p align="center">
-  <a href="https://discord.com/users/882509997950533682">
-    <img src="https://lanyard.cnrad.dev/api/882509997950533682?theme=dark&bg=1c1c1c&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=I+use+Arch+btw" alt="Discord Status" />
-  </a>
+<!-- Animated Bird of Hermes quote with fade-in and typing effect -->
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 1.3rem; color: #ff3333; font-weight: 700; user-select: none;">
+  <span id="hermes-quote"></span>
 </p>
 
----
+<script>
+  const quotes = [
+    "The Bird of Hermes is my name...",
+    "Eating my wings to make me tame."
+  ];
+  let index = 0, charIndex = 0;
+  const speed = 100;
+  const pause = 1500;
+  const el = document.getElementById("hermes-quote");
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC00FF&center=true&vCenter=true&width=435&lines=👑+Board+of+Hermes+My+Name" alt="Board of Hermes" />
-</p>
+  function type() {
+    if (charIndex <= quotes[index].length) {
+      el.textContent = quotes[index].substring(0, charIndex++);
+      setTimeout(type, speed);
+    } else {
+      setTimeout(() => {
+        charIndex = 0;
+        index = (index + 1) % quotes.length;
+        type();
+      }, pause);
+    }
+  }
+  type();
+</script>
