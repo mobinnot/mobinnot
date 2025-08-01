@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="200px" alt="Profile Picture" style="border-radius: 50%;"><br>
+  <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="200px" style="border-radius: 50%;" alt="Profile Picture"/><br>
   <b><code>NotMobin</code></b>
 </h1>
 
@@ -33,39 +33,39 @@
 | 🗺️ Minecraft Servers | Optimization layers, backend infra, exploit prevention     |
 | 🤖 Discord Bots     | Auto-mods, toolkits, API integrations                      |
 
+---
 
-<!-- ⚡ Contact & More -->
-<h3 align="center">⚡ Contact & More</h3>
+### ⚡ Contact & More
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 12px;">
+      <td align="center" style="padding: 16px;">
         <a href="mailto:mobin.abasbo@gmail.com" target="_blank" style="text-decoration: none;">
-          <img src="https://img.icons8.com/ios-filled/50/D44638/gmail.png"/><br>
+          <img src="https://img.icons8.com/ios-filled/50/D44638/gmail.png" alt="Gmail"/><br>
           <strong style="color:#D44638;">Gmail</strong><br>
           <sub>mobin.abasbo@gmail.com</sub>
         </a>
       </td>
-
-      <td align="center" style="padding: 12px;">
+      
+      <td align="center" style="padding: 16px;">
         <a href="https://discord.com/users/335847967938445323" target="_blank" style="text-decoration: none;">
-          <img src="https://img.icons8.com/ios-glyphs/50/5865F2/discord-logo.png"/><br>
+          <img src="https://img.icons8.com/ios-glyphs/50/5865F2/discord-logo.png" alt="Discord"/><br>
           <strong style="color:#5865F2;">Discord</strong><br>
           <sub>@mobinnot</sub>
         </a>
       </td>
 
-      <td align="center" style="padding: 12px;">
+      <td align="center" style="padding: 16px;">
         <a href="https://t.me/mobinnot" target="_blank" style="text-decoration: none;">
-          <img src="https://img.icons8.com/ios-filled/50/229ED9/telegram-app.png"/><br>
+          <img src="https://img.icons8.com/ios-filled/50/229ED9/telegram-app.png" alt="Telegram"/><br>
           <strong style="color:#229ED9;">Telegram</strong><br>
           <sub>@mobinnot</sub>
         </a>
       </td>
 
-      <td align="center" style="padding: 12px;">
-        <img src="https://img.icons8.com/ios-filled/50/999999/spy.png"/><br>
+      <td align="center" style="padding: 16px;">
+        <img src="https://img.icons8.com/ios-filled/50/999999/spy.png" alt="Pronouns"/><br>
         <strong style="color:#666;">Pronouns</strong><br>
         <sub>He / Him</sub>
       </td>
@@ -73,6 +73,7 @@
   </table>
 </div>
 
+---
 
 ### 🛰️ Discord Presence
 
