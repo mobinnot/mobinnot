@@ -55,7 +55,6 @@
 
 ---
 
-### 🛰️ Discord Presence
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/335847967938445323.png" alt="Discord Presence" style="border-radius: 10px;">
@@ -63,7 +62,6 @@
 
 ---
 
-### 🧠 Animated Highlights
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Network+Security+Engineer;Advanced+IT+Specialist;C%2B%2B+Developer;Minecraft+Plugin+Dev;Discord+Bot+Developer&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=00FFAA" alt="Typing SVG 1"/>
