@@ -14,76 +14,47 @@
 <h3>👁️‍🗨️ About Me</h3>
 
 <ul>
-  <li>🔬 <b>Hacker-minded</b> developer obsessed with reversing and memory games</li>
-  <li>🌌 Building advanced <b>Minecraft plugins</b> (Jail, AntiCheat, GUI CS zones)</li>
-  <li>⚙️ Linux-first DevOps guy: <code>Docker</code>, <code>CI/CD</code>, <code>Proxy</code>, <code>Firewall</code></li>
-  <li>💣 Kernel enthusiast diving into <b>eBPF</b>, <b>rootkits</b>, <b>Windows internals</b></li>
-  <li>🧠 Certified: <b>CEH v11/v13</b> | Tools: IDA, Ghidra, x64dbg, Burp</li>
+  <li>🔬 Hacker-minded developer obsessed with reversing and memory games</li>
+  <li>🌌 Building advanced Minecraft plugins (Jail, AntiCheat, GUI CS zones)</li>
+  <li>⚙️ Linux-first DevOps: Docker, CI/CD, Reverse Proxy, Firewalls</li>
+  <li>💣 Kernel lover: eBPF, rootkits, Windows internals</li>
+  <li>🧠 Certified: CEH v11/v13 | Tools: IDA, Ghidra, x64dbg, Burp</li>
 </ul>
 
 ---
 
-<h3>🚀 Featured Focus</h3>
+<h3>🚀 Projects & Skills</h3>
 
 <table>
-  <tr>
-    <th>Area</th>
-    <th>Tools / Techs</th>
-  </tr>
-  <tr>
-    <td>🛠️ Plugin Dev</td>
-    <td>Java, PaperMC, Bukkit, Spigot</td>
-  </tr>
-  <tr>
-    <td>🧱 Server Config</td>
-    <td>Linux, systemd, tmux, fail2ban, iptables</td>
-  </tr>
-  <tr>
-    <td>🔬 Exploit Research</td>
-    <td>Kernel hooks, syscall hijack, buffer overflows</td>
-  </tr>
-  <tr>
-    <td>🔧 Reverse Engineering</td>
-    <td>IDA, Ghidra, x64dbg, ScyllaHide, PE-bear</td>
-  </tr>
-  <tr>
-    <td>🕹️ Minecraft Worlds</td>
-    <td>Auto jail/cs world creation, mining zones, punish GUIs</td>
-  </tr>
-  <tr>
-    <td>📦 DevOps</td>
-    <td>GitHub Actions, Nginx, Docker, Ansible</td>
-  </tr>
+  <tr><th>Area</th><th>Tools / Focus</th></tr>
+  <tr><td>🛠️ Plugin Dev</td><td>Java, PaperMC, Bukkit, Spigot</td></tr>
+  <tr><td>🧱 Server Config</td><td>Linux, tmux, iptables, systemd, fail2ban</td></tr>
+  <tr><td>🔬 Exploiting</td><td>Syscalls, buffer overflows, kernel tricks</td></tr>
+  <tr><td>🕹️ Minecraft Worlds</td><td>Auto-Jail, Mining CS Zones, GUI Panels</td></tr>
+  <tr><td>📦 DevOps</td><td>GitHub Actions, Nginx, Docker, Ansible</td></tr>
 </table>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Minecraft+Server+Architect;DevOps+%2F+Reverse+Engineer;Cyber+Security+Fanatic;C%2B%2B+%7C+Java+%7C+Kernel+Dev;Always+Mining+Into+Memory!&font=Fira+Code&center=true&width=900&height=50&duration=3000&pause=1000&color=00ffaa" alt="Typing SVG"/>
-</div>
-
----
-
-<h3 align="center">🧭 Connect with Me</h3>
+<h3 align="center">📡 Connect with Me</h3>
 
 <p align="center">
   <a href="mailto:mobin.abasbo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mobin.abasbo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/335847967938445323" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/335847967938445323?bg=transparent&idleMessage=Sleeping...&borderRadius=15px">
+    <img src="https://img.shields.io/badge/Email-mobin.abasbo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
   <a href="https://t.me/mobinnot" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@mobinnot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-@mobinnot-2CA5E0?style=flat-square&logo=telegram&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/335847967938445323" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/335847967938445323?bg=1e1e1e&borderRadius=10px&idleMessage=Offline%20%F0%9F%91%8C&animated=true&hideDiscrim=true">
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=The+Bird+of+Hermes+is+My+Name;Eating+My+Wings+to+Make+Me+Tame&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=FF4444" alt="Bird of Hermes Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=100&section=footer"/>
+<p align="center" style="font-style: italic; font-size: 16px; color: #999;">
+  “The Bird of Hermes is my name, eating my wings to make me tame.”
 </p>
