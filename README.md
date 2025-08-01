@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="200px" style="border-radius: 50%;" alt="Profile Picture"/><br>
+  <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="200px" alt="Profile Picture" style="border-radius: 50%;"><br>
   <b><code>NotMobin</code></b>
 </h1>
 
@@ -35,28 +35,43 @@
 
 ---
 
-<h3 align="center">⚡ Contact & More</h3>
+### ⚡ Contact & More
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/30/D44638/gmail.png"/></td>
+    <td><strong style="color:#D44638;">Email</strong><br><code>mobin.abasbo@gmail.com</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-glyphs/30/5865F2/discord-logo.png"/></td>
+    <td><strong style="color:#5865F2;">Discord</strong><br><code>mobinnot</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/30/229ED9/telegram-app.png"/></td>
+    <td><strong style="color:#229ED9;">Telegram</strong><br><a href="https://t.me/mobinnot" target="_blank">@mobinnot</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/30/999999/spy.png"/></td>
+    <td><strong style="color:#666;">Pronouns</strong><br><code>He/Him</code></td>
+  </tr>
+</table>
+
+---
+
+### 🛰️ Discord Presence
 
 <p align="center">
-  <a href="mailto:mobin.abasbo@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/D44638/gmail.png" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/335847967938445323" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/40/5865F2/discord-logo.png" alt="Discord" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/mobinnot" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/229ED9/telegram-app.png" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/40/999999/spy.png" alt="Pronouns" />
+  <img src="https://discord.c99.nl/widget/theme-1/335847967938445323.png" alt="Discord Presence" style="border-radius: 10px;">
+</p>
+
+---
+
+### 🧠 Animated Highlights
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Network+Security+Engineer;Advanced+IT+Specialist;C%2B%2B+Developer;Minecraft+Plugin+Dev;Discord+Bot+Developer&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=00FFAA" alt="Typing SVG 1"/>
 </p>
 
 <p align="center">
-  <strong>Email:</strong> <a href="mailto:mobin.abasbo@gmail.com">mobin.abasbo@gmail.com</a> <br>
-  <strong>Discord:</strong> <a href="https://discord.com/users/335847967938445323">@mobinnot</a> <br>
-  <strong>Telegram:</strong> <a href="https://t.me/mobinnot">@mobinnot</a> <br>
-  <strong>Pronouns:</strong> He / Him
+  <img src="https://readme-typing-svg.demolab.com/?lines=The+Bird+of+Hermes+is+My+Name;Eating+My+Wings+to+Make+Me+Tame&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=FF0000" alt="Typing SVG 2"/>
 </p>
-
