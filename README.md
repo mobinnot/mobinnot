@@ -35,60 +35,28 @@
 
 ---
 
-### ⚡ Contact & More
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 16px;">
-        <a href="mailto:mobin.abasbo@gmail.com" target="_blank" style="text-decoration: none;">
-          <img src="https://img.icons8.com/ios-filled/50/D44638/gmail.png" alt="Gmail"/><br>
-          <strong style="color:#D44638;">Gmail</strong><br>
-          <sub>mobin.abasbo@gmail.com</sub>
-        </a>
-      </td>
-      
-      <td align="center" style="padding: 16px;">
-        <a href="https://discord.com/users/335847967938445323" target="_blank" style="text-decoration: none;">
-          <img src="https://img.icons8.com/ios-glyphs/50/5865F2/discord-logo.png" alt="Discord"/><br>
-          <strong style="color:#5865F2;">Discord</strong><br>
-          <sub>@mobinnot</sub>
-        </a>
-      </td>
-
-      <td align="center" style="padding: 16px;">
-        <a href="https://t.me/mobinnot" target="_blank" style="text-decoration: none;">
-          <img src="https://img.icons8.com/ios-filled/50/229ED9/telegram-app.png" alt="Telegram"/><br>
-          <strong style="color:#229ED9;">Telegram</strong><br>
-          <sub>@mobinnot</sub>
-        </a>
-      </td>
-
-      <td align="center" style="padding: 16px;">
-        <img src="https://img.icons8.com/ios-filled/50/999999/spy.png" alt="Pronouns"/><br>
-        <strong style="color:#666;">Pronouns</strong><br>
-        <sub>He / Him</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🛰️ Discord Presence
+<h3 align="center">⚡ Contact & More</h3>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/335847967938445323.png" alt="Discord Presence" style="border-radius: 10px;">
-</p>
-
----
-
-### 🧠 Animated Highlights
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Network+Security+Engineer;Advanced+IT+Specialist;C%2B%2B+Developer;Minecraft+Plugin+Dev;Discord+Bot+Developer&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=00FFAA" alt="Typing SVG 1"/>
+  <a href="mailto:mobin.abasbo@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/D44638/gmail.png" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/335847967938445323" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/40/5865F2/discord-logo.png" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/mobinnot" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/229ED9/telegram-app.png" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/40/999999/spy.png" alt="Pronouns" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=The+Bird+of+Hermes+is+My+Name;Eating+My+Wings+to+Make+Me+Tame&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=FF0000" alt="Typing SVG 2"/>
+  <strong>Email:</strong> <a href="mailto:mobin.abasbo@gmail.com">mobin.abasbo@gmail.com</a> <br>
+  <strong>Discord:</strong> <a href="https://discord.com/users/335847967938445323">@mobinnot</a> <br>
+  <strong>Telegram:</strong> <a href="https://t.me/mobinnot">@mobinnot</a> <br>
+  <strong>Pronouns:</strong> He / Him
 </p>
+
