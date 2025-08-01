@@ -1,58 +1,162 @@
-<h1 align="center">
-  <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="180px" style="border-radius: 50%; border: 4px solid #00ffaa; box-shadow: 0 0 15px #00ffaa;" alt="Profile Picture"><br>
-  <b><code style="font-size: 32px; color: #00ffaa;">NotMobin</code></b>
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NotMobin Profile</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background: #0f0f0f;
+      font-family: 'JetBrains Mono', monospace;
+      color: #eee;
+      padding: 2rem;
+      margin: 0;
+    }
+    .card {
+      max-width: 1000px;
+      margin: auto;
+      background: #1c1c1c;
+      border-radius: 16px;
+      padding: 2rem;
+      box-shadow: 0 0 25px rgba(255,0,0,0.2);
+      position: relative;
+      overflow: hidden;
+    }
+    .heading {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+    }
+    .pfp {
+      border-radius: 50%;
+      border: 2px solid crimson;
+      width: 120px;
+      height: 120px;
+    }
+    h1 {
+      font-size: 2rem;
+      margin: 0;
+      color: crimson;
+    }
+    .roles {
+      margin-top: 0.3rem;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+    .section {
+      margin-top: 2rem;
+    }
+    .section h2 {
+      color: #ff5555;
+      font-size: 1.2rem;
+      margin-bottom: 0.5rem;
+    }
+    ul {
+      list-style: '✦ ';
+      padding-left: 1.2rem;
+    }
+    .discord-btn {
+      margin-top: 1.5rem;
+      background: #5865F2;
+      padding: 0.8rem 1.2rem;
+      border-radius: 12px;
+      display: inline-block;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    .discord-btn:hover {
+      background: #404eed;
+    }
+    .board-slide {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      background: crimson;
+      color: white;
+      font-weight: bold;
+      text-align: center;
+      padding: 0.5rem 0;
+      animation: slidein 3s ease-in-out infinite alternate;
+    }
 
-<p align="center">
-  🧠 <b>System Programmer</b> • 🧩 <b>Reverse Engineer</b> • 🛡️ <b>Cyber Security Specialist</b><br>
-  🧱 <b>DevOps Engineer</b> • 🎮 <b>Minecraft Plugin Developer & Server Architect</b><br>
-  <code>C++</code> • <code>x86 ASM</code> • <code>Kernel</code> • <code>Networking</code> • <code>PaperMC</code>
-</p>
+    @keyframes slidein {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(0%); }
+    }
 
-<hr style="border: none; border-top: 2px dashed #444; width: 80%; margin: 30px auto;">
+    .flex-col {
+      display: flex;
+      flex-direction: column;
+      gap: 1.2rem;
+    }
 
-<h3>👁️‍🗨️ About Me</h3>
+    .flex-row {
+      display: flex;
+      gap: 2rem;
+      flex-wrap: wrap;
+    }
 
-<ul>
-  <li>🔬 Hacker-minded developer obsessed with reversing and memory games</li>
-  <li>🌌 Building advanced Minecraft plugins (Jail, AntiCheat, GUI CS zones)</li>
-  <li>⚙️ Linux-first DevOps: Docker, CI/CD, Reverse Proxy, Firewalls</li>
-  <li>💣 Kernel lover: eBPF, rootkits, Windows internals</li>
-  <li>🧠 Certified: CEH v11/v13 | Tools: IDA, Ghidra, x64dbg, Burp</li>
-</ul>
+    .badge {
+      background: #222;
+      border: 1px solid crimson;
+      border-radius: 8px;
+      padding: 0.5rem 1rem;
+      color: crimson;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="heading">
+      <img src="https://cdn.discordapp.com/avatars/1176208389475082292/bc95e08c07f3bdc69ab36583bb0d7a0a.png?size=1024" class="pfp" alt="pfp">
+      <div>
+        <h1>NotMobin</h1>
+        <div class="roles">🧠 System Programmer • 🧩 Reverse Engineer • 🛡️ Cyber Security Specialist</div>
+        <div class="flex-row" style="margin-top: 0.5rem;">
+          <span class="badge">C++</span>
+          <span class="badge">x86 ASM</span>
+          <span class="badge">Kernel</span>
+          <span class="badge">Minecraft Plugin Dev</span>
+          <span class="badge">Server Config</span>
+        </div>
+      </div>
+    </div>
 
----
+    <div class="section">
+      <h2>👁️‍🗨️ About Me</h2>
+      <ul>
+        <li>🔬 Medium-level hacker mind with a love for reversing protocols</li>
+        <li>🌱 Exploring kernel-level exploit dev, eBPF, and malware analysis</li>
+        <li>🛡️ Certified: CEH v11 / v13</li>
+        <li>🔧 Tools: IDA, Ghidra, Wireshark, x64dbg, Burp, Metasploit</li>
+      </ul>
+    </div>
 
-<h3>🚀 Projects & Skills</h3>
+    <div class="section">
+      <h2>📦 Projects & Interests</h2>
+      <ul>
+        <li>🎮 Game Security: Anti-Cheat</li>
+        <li>🔐 Hacking Tools: Custom payloads, scanners, & bypasses</li>
+        <li>🕸️ Networking: Packet crafting, MITM tools, raw sockets</li>
+        <li>🧬 Systems Dev: C++, C, Assembly, Static/Dynamic analysis</li>
+      </ul>
+    </div>
 
-<table>
-  <tr><th>Area</th><th>Tools / Focus</th></tr>
-  <tr><td>🛠️ Plugin Dev</td><td>Java, PaperMC, Bukkit, Spigot</td></tr>
-  <tr><td>🧱 Server Config</td><td>Linux, tmux, iptables, systemd, fail2ban</td></tr>
-  <tr><td>🔬 Exploiting</td><td>Syscalls, buffer overflows, kernel tricks</td></tr>
-  <tr><td>🕹️ Minecraft Worlds</td><td>Auto-Jail, Mining CS Zones, GUI Panels</td></tr>
-  <tr><td>📦 DevOps</td><td>GitHub Actions, Nginx, Docker, Ansible</td></tr>
-</table>
+    <div class="section">
+      <h2>⚡ Contact & More</h2>
+      <ul>
+        <li>📫 Email: mobin.abasbo@gmail.com</li>
+        <li>💬 Discord: <strong>mobinnot</strong></li>
+        <li>📡 Telegram: <a href="https://t.me/mobinnot" target="_blank">@mobinnot</a></li>
+        <li>🧔 Pronouns: He/Him</li>
+      </ul>
+      <a href="https://discord.com/users/1176208389475082292" class="discord-btn" target="_blank">Join Me on Discord</a>
+    </div>
 
----
-
-<h3 align="center">📡 Connect with Me</h3>
-
-<p align="center">
-  <a href="mailto:mobin.abasbo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mobin.abasbo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://t.me/mobinnot" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@mobinnot-2CA5E0?style=flat-square&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/335847967938445323" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-mobinnot-5865F2?style=flat-square&logo=discord&logoColor=white">
-  </a>
-</p>
-
----
-
-<!-- Bird of Hermes quote with animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=The+Bird+of+Hermes+is+my+name...;Eating+my+wings+to+make+me+tame.&font=Fira+Code&center=true&width=700&height=50&duration=4000&pause=1000&color=FF3333" alt="Bird of Hermes Typing Animation"/>
-</p>
+    <div class="board-slide">The Board of Hermes: My Name</div>
+  </div>
+</body>
+</html>
