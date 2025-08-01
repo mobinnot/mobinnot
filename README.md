@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="200px" alt="Profile Picture"><br>
+  <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="200px" alt="Profile Picture" style="border-radius: 50%;"><br>
   <b><code>NotMobin</code></b>
 </h1>
 
 <p align="center">
-  🧠 <b>System Programmer</b> • 🧩 <b>Reverse Engineer</b> • 🛡️ <b>Cyber Security Specialist</b><br>
-  🎮 <b>Minecraft Plugin Developer</b> • 🌍 <b>Minecraft Server Developer</b><br>
-  🔧 <b>Minecraft Modder</b> • 🤖 <b>Discord Bot Developer</b><br>
+  🧠 <strong>System Programmer</strong> • 🧩 <strong>Reverse Engineer</strong> • 🛡️ <strong>Cyber Security Specialist</strong><br>
+  🎮 <strong>Minecraft Plugin Developer</strong> • 🌍 <strong>Minecraft Server Developer</strong><br>
+  🔧 <strong>Minecraft Modder</strong> • 🤖 <strong>Discord Bot Developer</strong><br>
   <code>C++</code> • <code>x86 ASM</code> • <code>Kernel</code> • <code>Networking</code>
 </p>
 
@@ -14,73 +14,59 @@
 
 ### 👁️‍🗨️ About Me
 
-- 🔬 **Medium-level hacker mind with a love for reversing protocols and digging into memory**
-- 🌱 Currently exploring **kernel-level exploit dev**, **eBPF**, and **malware analysis**
-- 🛡️ Certified: CEH v11 / v13
-- 🔧 Tools: IDA, Ghidra, Wireshark, x64dbg, Burp, Metasploit
+- 🔬 Medium-level hacker mind with a love for reversing protocols and digging into memory  
+- 🌱 Currently exploring `kernel-level exploit dev`, `eBPF`, and `malware analysis`  
+- 🛡️ Certified: CEH v11 / v13  
+- 🔧 Tools: IDA, Ghidra, Wireshark, x64dbg, Burp, Metasploit  
 
 ---
 
 ### 📦 Projects & Interests
 
-| Topic               | Focus                                               |
-|---------------------|-----------------------------------------------------|
-| 🎮 Game Security    | Anti-Cheat                                          |
-| 🔐 Hacking Tools    | Custom payloads, scanners, & bypasses               |
-| 🕸️ Networking       | Packet crafting, MITM tools, raw sockets            |
-| 🧬 Systems Dev       | C++, C, Assembly, Static/Dynamic analysis           |
-| 🧱 Minecraft Plugins | Punishment systems, mini-games, GUI, automation     |
-| 🗺️ Minecraft Servers | Infrastructure, optimization, anti-exploit layers   |
-| 🤖 Discord Bots     | Moderation systems, utilities, API integrations     |
+| 🧠 Field            | 🔍 Focus                                                   |
+|--------------------|------------------------------------------------------------|
+| 🎮 Game Security    | Anti-Cheat, client/server detection methods                |
+| 🔐 Hacking Tools    | Payloads, bypasses, scanning frameworks                    |
+| 🕸️ Networking       | Packet crafting, raw sockets, MITM tools                   |
+| 🧬 System Dev       | C, C++, Assembly, static/dynamic analysis                  |
+| 🧱 Minecraft Plugins | GUI panels, punishment systems, minigames, anti-exploit    |
+| 🗺️ Minecraft Servers | Optimization layers, backend infra, exploit prevention     |
+| 🤖 Discord Bots     | Auto-mods, toolkits, API integrations                      |
 
 ---
 
 ### ⚡ Contact & More
 
-<div style="display: flex; flex-direction: column; gap: 12px; font-family: sans-serif;">
-
-  <div style="display: flex; align-items: center; background-color: #ffeae8; border-left: 5px solid #D44638; padding: 12px 16px; border-radius: 8px;">
-    <img src="https://img.icons8.com/ios-filled/30/D44638/gmail.png" style="margin-right: 15px;">
-    <div>
-      <div style="font-weight: bold; color: #D44638;">Email</div>
-      <div style="color: #333;">mobin.abasbo@gmail.com</div>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: center; background-color: #eaf0ff; border-left: 5px solid #5865F2; padding: 12px 16px; border-radius: 8px;">
-    <img src="https://img.icons8.com/ios-glyphs/30/5865F2/discord-logo.png" style="margin-right: 15px;">
-    <div>
-      <div style="font-weight: bold; color: #5865F2;">Discord</div>
-      <div style="color: #333;">mobinnot</div>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: center; background-color: #e4f7ff; border-left: 5px solid #229ED9; padding: 12px 16px; border-radius: 8px;">
-    <img src="https://img.icons8.com/ios-filled/30/229ED9/telegram-app.png" style="margin-right: 15px;">
-    <div>
-      <div style="font-weight: bold; color: #229ED9;">Telegram</div>
-      <div><a href="https://t.me/mobinnot" target="_blank" style="color: #333; text-decoration: none;">@mobinnot</a></div>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: center; background-color: #f5f5f5; border-left: 5px solid #999; padding: 12px 16px; border-radius: 8px;">
-    <img src="https://img.icons8.com/ios-filled/30/999999/spy.png" style="margin-right: 15px;">
-    <div>
-      <div style="font-weight: bold; color: #666;">Pronouns</div>
-      <div style="color: #333;">He/Him</div>
-    </div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/30/D44638/gmail.png"/></td>
+    <td><strong style="color:#D44638;">Email</strong><br><code>mobin.abasbo@gmail.com</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-glyphs/30/5865F2/discord-logo.png"/></td>
+    <td><strong style="color:#5865F2;">Discord</strong><br><code>mobinnot</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/30/229ED9/telegram-app.png"/></td>
+    <td><strong style="color:#229ED9;">Telegram</strong><br><a href="https://t.me/mobinnot" target="_blank">@mobinnot</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/30/999999/spy.png"/></td>
+    <td><strong style="color:#666;">Pronouns</strong><br><code>He/Him</code></td>
+  </tr>
+</table>
 
 ---
 
 ### 🛰️ Discord Presence
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/335847967938445323.png" alt="Discord Widget" style="max-width: 320px; border-radius: 10px;">
+  <img src="https://discord.c99.nl/widget/theme-1/335847967938445323.png" alt="Discord Presence" style="border-radius: 10px;">
 </p>
 
 ---
+
+### 🧠 Animated Highlights
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Network+Security+Engineer;Advanced+IT+Specialist;C%2B%2B+Developer;Minecraft+Plugin+Dev;Discord+Bot+Developer&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=00FFAA" alt="Typing SVG 1"/>
