@@ -5,7 +5,7 @@
 
 <p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 1.2rem; color: #aaffee; max-width: 650px; margin: auto;">
   🧠 <strong>System Programmer</strong> &nbsp;&nbsp;•&nbsp;&nbsp; 🧩 <strong>Reverse Engineer</strong> &nbsp;&nbsp;•&nbsp;&nbsp; 🛡️ <strong>Cyber Security Specialist</strong><br>
-  🧱 <strong>DevOps Engineer</strong> &nbsp;&nbsp;•&nbsp;&nbsp; 🎮 <strong>Minecraft Plugin Developer & Server Architect</strong><br>
+  🧱 <strong>DevOps Engineer</strong> &nbsp;&nbsp;•&nbsp;&nbsp; 🤖 <strong>Discord Bot Developer</strong> &nbsp;&nbsp;•&nbsp;&nbsp; 🎮 <strong>Minecraft Plugin Developer & Server Architect</strong><br>
   <code style="background: #004d40; padding: 3px 8px; border-radius: 6px; font-weight: bold;">C++</code> &nbsp;
   <code style="background: #004d40; padding: 3px 8px; border-radius: 6px; font-weight: bold;">x86 ASM</code> &nbsp;
   <code style="background: #004d40; padding: 3px 8px; border-radius: 6px; font-weight: bold;">Kernel</code> &nbsp;
@@ -19,8 +19,9 @@
   <h3 style="text-align: center; margin-bottom: 15px; font-size: 1.8rem; font-weight: 700;">👁️‍🗨️ About Me</h3>
   <ul style="list-style: none; padding: 0; font-size: 1.15rem; line-height: 1.7;">
     <li>🔬 <em>Hacker-minded developer obsessed with reversing and memory games</em></li>
-    <li>🌌 Building advanced Minecraft plugins (<strong>Jail</strong>, <strong>AntiCheat</strong>, <strong>GUI CS zones</strong>)</li>
+    <li>🌌 Building advanced Minecraft plugins (<strong>AntiCheat</strong>, <strong>GUI CS zones</strong>)</li>
     <li>⚙️ Linux-first DevOps: <code>Docker</code>, CI/CD, Reverse Proxy, Firewalls</li>
+    <li>🤖 Expert in Discord Bot development with rich interactive commands & server automation</li>
     <li>💣 Kernel lover: eBPF, rootkits, Windows internals</li>
     <li>🧠 Certified: <strong>CEH v11/v13</strong> | Tools: <code>IDA</code>, <code>Ghidra</code>, <code>x64dbg</code>, <code>Burp</code></li>
   </ul>
@@ -49,8 +50,8 @@
         <td style="padding: 10px 15px;">Syscalls, buffer overflows, kernel tricks</td>
       </tr>
       <tr>
-        <td style="padding: 10px 15px;">🕹️ Minecraft Worlds</td>
-        <td style="padding: 10px 15px;">Auto-Jail, Mining CS Zones, GUI Panels</td>
+        <td style="padding: 10px 15px;">🤖 Discord Bots</td>
+        <td style="padding: 10px 15px;">Node.js, Discord.js, Slash Commands, Webhooks, Automation</td>
       </tr>
       <tr style="background: #00332f;">
         <td style="padding: 10px 15px;">📦 DevOps</td>
@@ -75,32 +76,35 @@
   </p>
 </section>
 
-<!-- Animated Bird of Hermes quote with fade-in and typing effect -->
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 1.3rem; color: #ff3333; font-weight: 700; user-select: none;">
-  <span id="hermes-quote"></span>
-</p>
+<!-- Centered Bird of Hermes quote with typing animation -->
+<div style="display: flex; justify-content: center; margin-bottom: 60px;">
+  <p id="hermes-quote" style="font-family: 'Fira Code', monospace; font-size: 1.4rem; color: #ff3333; font-weight: 700; user-select: none; max-width: 700px; text-align: center; border: 2px solid #ff3333; padding: 10px 20px; border-radius: 12px; box-shadow: 0 0 15px #ff3333;"></p>
+</div>
 
 <script>
-  const quotes = [
-    "The Bird of Hermes is my name...",
-    "Eating my wings to make me tame."
-  ];
-  let index = 0, charIndex = 0;
-  const speed = 100;
-  const pause = 1500;
-  const el = document.getElementById("hermes-quote");
+  (() => {
+    const quotes = [
+      "The Bird of Hermes is my name...",
+      "Eating my wings to make me tame."
+    ];
+    let currentQuote = 0;
+    let charPos = 0;
+    const typingSpeed = 70;
+    const pauseDuration = 1400;
+    const quoteEl = document.getElementById("hermes-quote");
 
-  function type() {
-    if (charIndex <= quotes[index].length) {
-      el.textContent = quotes[index].substring(0, charIndex++);
-      setTimeout(type, speed);
-    } else {
-      setTimeout(() => {
-        charIndex = 0;
-        index = (index + 1) % quotes.length;
-        type();
-      }, pause);
+    function typeWriter() {
+      if (charPos <= quotes[currentQuote].length) {
+        quoteEl.textContent = quotes[currentQuote].substring(0, charPos++);
+        setTimeout(typeWriter, typingSpeed);
+      } else {
+        setTimeout(() => {
+          charPos = 0;
+          currentQuote = (currentQuote + 1) % quotes.length;
+          typeWriter();
+        }, pauseDuration);
+      }
     }
-  }
-  type();
+    typeWriter();
+  })();
 </script>
