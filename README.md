@@ -37,6 +37,6 @@
 
 ---
 
-### 🐦 Bird of Hermes
-
-![Bird of Hermes Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF3333&width=600&lines=The+Bird+of+Hermes+is+my+name...;Eating+my+wings+to+make+me+tame.)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF3333&width=600&lines=The+Bird+of+Hermes+is+my+name...;Eating+my+wings+to+make+me+tame." alt="Bird of Hermes Typing Animation" />
+</p>
