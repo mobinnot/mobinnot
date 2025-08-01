@@ -1,56 +1,61 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="200px" alt="Profile Picture"><br>
-  <b><code>NotMobin</code></b>
+  <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="180px" style="border-radius: 50%; border: 4px solid #00ffaa; box-shadow: 0 0 15px #00ffaa;" alt="Profile Picture"><br>
+  <b><code style="font-size: 32px; color: #00ffaa;">NotMobin</code></b>
 </h1>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
   🧠 <b>System Programmer</b> • 🧩 <b>Reverse Engineer</b> • 🛡️ <b>Cyber Security Specialist</b><br>
-  <code>C++</code> • <code>x86 ASM</code> • <code>Kernel</code> • <code>Networking</code>
+  🧱 <b>DevOps Engineer</b> • 🎮 <b>Minecraft Plugin Developer & Server Architect</b><br>
+  <code style="color: #ff0080;">C++</code> • <code style="color: #ffaa00;">x86 ASM</code> • <code style="color: #00ffff;">Kernel</code> • <code style="color: #aaff00;">Networking</code> • <code style="color: #ff00ff;">Java/PaperMC</code>
 </p>
 
-<hr>
+<hr style="border: none; border-top: 2px dashed #444; width: 80%; margin: 30px auto;">
 
 ### 👁️‍🗨️ About Me
 
-- 🔬 **Medium-level hacker mind with a love for reversing protocols and digging into memory**
-- 🌱 Currently exploring **kernel-level exploit dev**, **eBPF**, and **malware analysis**
-- 🛡️ Certified: CEH v11 / v13
-- 🔧 Tools: IDA, Ghidra, Wireshark, x64dbg, Burp, Metasploit
+- 🔬 <b>Hacker-minded</b> developer obsessed with reversing and memory games
+- 🌌 Building advanced **Minecraft plugins** (Jail, AntiCheat, GUI CS zones)
+- ⚙️ Linux-first DevOps guy: **Docker**, **CI/CD**, **Reverse Proxy**, **Firewall**
+- 💣 Kernel enthusiast diving into **eBPF**, **rootkits**, **Windows internals**
+- 🧠 Certified: <b>CEH v11/v13</b> | Toolchain: <b>IDA, Ghidra, x64dbg, Burp</b>
 
 ---
 
-### 📦 Projects & Interests
+### 🚀 Featured Focus
 
-| Topic             | Focus                                              |
-|-------------------|---------------------------------------------------|
-| 🎮 Game Security  | Anti-Cheat                                         |
-| 🔐 Hacking Tools  | Custom payloads, scanners, & bypasses              |
-| 🕸️ Networking     | Packet crafting, MITM tools, raw sockets           |
-| 🧬 Systems Dev     | C++, C, Assembly, Static/Dynamic analysis          |
+| Area                    | Tools / Techs                                                  |
+|-------------------------|----------------------------------------------------------------|
+| 🛠️ Plugin Dev           | Java, PaperMC, Bukkit, Spigot                                  |
+| 🧱 Server Config        | Linux, systemd, tmux, fail2ban, iptables, UFW                  |
+| 🔬 Exploit Research     | Kernel hooks, syscall hijack, buffer overflows                 |
+| 🔧 Reverse Engineering  | IDA, Ghidra, x64dbg, ScyllaHide, PE-bear                        |
+| 🕹️ Minecraft Worlds     | Auto-generated jail/cs worlds, mining zones, GUI punishments   |
+| 📦 DevOps Stuff         | GitHub Actions, Nginx, Docker, Ansible                         |
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px;">
-    <h3>⚡ Contact & More</h3>
-    <ul>
-      <li>📫 <b>Email:</b> mobin.abasbo@gmail.com</li>
-      <li>💬 <b>Discord:</b> mobinnot</li>
-      <li>📡 <b>Telegram:</b> <a href="https://t.me/mobinnot" target="_blank">@mobinnot</a></li>
-      <li>🕵️‍♂️ <b>Pronouns:</b> He/Him</li>
-    </ul>
-  </div>
-  <div style="flex: 1; min-width: 300px; text-align: right;">
-    <img src="https://discord.c99.nl/widget/theme-1/335847967938445323.png" alt="Discord Widget" style="max-width: 320px; border-radius: 10px;">
-  </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Minecraft+Server+Architect;DevOps+%2F+Reverse+Engineer;Cyber+Security+Fanatic;C%2B%2B+%7C+Java+%7C+Kernel+Dev;Always+Mining+Into+Memory!&font=Fira+Code&center=true&width=900&height=50&duration=3000&pause=1000&color=00ffaa" alt="Typing SVG"/>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Network+Security+Engineer;Advanced+IT+Specialist;C%2B%2B+Developer;Minecraft+%26+;Linux+Server+Expert&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=00FFAA" alt="Typing SVG 1"/>
-</p>
+### 🧭 Connect with Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=The+Bird+of+Hermes+is+My+Name;Eating+My+Wings+to+Make+Me+Tame&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=FF0000" alt="Typing SVG"/>
+  <a href="mailto:mobin.abasbo@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-mobin.abasbo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/335847967938445323" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/335847967938445323?bg=transparent&idleMessage=Sleeping...&borderRadius=15px">
+  </a>
+  <a href="https://t.me/mobinnot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@mobinnot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=100&section=footer"/>
 </p>
